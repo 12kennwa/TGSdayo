@@ -1,12 +1,12 @@
 {
   "context": {
     "projectPath": "/Users/x25018xx/TGSdayo/TGSssss/Packages",
-    "unityVersion": "6000.4.8f1"
+    "unityVersion": "6000.4.10f1"
   },
   "inputs": [
     "/Users/x25018xx/TGSdayo/TGSssss/Packages/manifest.json",
     "/Users/x25018xx/TGSdayo/TGSssss/Packages/packages-lock.json",
-    "/Applications/Unity/Hub/Editor/6000.4.8f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
+    "/Applications/Unity/Hub/Editor/6000.4.10f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.2d.sprite@1.0.0": {
@@ -22,8 +22,8 @@
     "com.unity.2d.tilemap@1.0.0": {
       "name": "com.unity.2d.tilemap",
       "displayName": "2D Tilemap Editor",
-      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.2d.tilemap@191c90975efd",
-      "fingerprint": "191c90975efddc01dda3145f6f95d459bdeab224",
+      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.2d.tilemap@771fb19abead",
+      "fingerprint": "771fb19abead602963249411c1f06c4f7cef3742",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
       "source": "builtin",
@@ -122,8 +122,8 @@
     "com.unity.render-pipelines.universal@17.4.0": {
       "name": "com.unity.render-pipelines.universal",
       "displayName": "Universal Render Pipeline",
-      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.render-pipelines.universal@13e5115b98bf",
-      "fingerprint": "13e5115b98bfee7e78d24995890cb75d63b2e381",
+      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.render-pipelines.universal@cdf909593d80",
+      "fingerprint": "cdf909593d80250afe2e5bbc8b300b4cd5248430",
       "editorCompatibility": "6000.4.0a1",
       "version": "17.4.0",
       "source": "builtin",
@@ -132,8 +132,8 @@
     "com.unity.test-framework@1.6.0": {
       "name": "com.unity.test-framework",
       "displayName": "Test Framework",
-      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.test-framework@76560ee600cb",
-      "fingerprint": "76560ee600cb07c29e08760be4a5c75da65a9d9e",
+      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.test-framework@996f223345ba",
+      "fingerprint": "996f223345bacaca326406f441efe875d8c25202",
       "editorCompatibility": "6000.0.44f1",
       "version": "1.6.0",
       "source": "builtin",
@@ -152,8 +152,8 @@
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
       "displayName": "uGUI",
-      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.ugui@a9ea81766fbd",
-      "fingerprint": "a9ea81766fbd1541520b82068401604ff0e403ed",
+      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.ugui@1f2d1ab0d950",
+      "fingerprint": "1f2d1ab0d950c1e70186233f26a62f22a5132855",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
       "source": "builtin",
@@ -480,8 +480,8 @@
     "com.unity.render-pipelines.core@17.4.0": {
       "name": "com.unity.render-pipelines.core",
       "displayName": "Scriptable Render Pipeline Core",
-      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.render-pipelines.core@6f62546dd936",
-      "fingerprint": "6f62546dd936e06db320956a2738f2f51fc9c904",
+      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.render-pipelines.core@5aab14b68499",
+      "fingerprint": "5aab14b68499310209c01ce129631806290d391e",
       "editorCompatibility": "6000.4.0a1",
       "version": "17.4.0",
       "source": "builtin",
@@ -490,8 +490,8 @@
     "com.unity.shadergraph@17.4.0": {
       "name": "com.unity.shadergraph",
       "displayName": "Shader Graph",
-      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.shadergraph@33f3b0a71b9a",
-      "fingerprint": "33f3b0a71b9a3cfee13e803c1e442ad1e68bd03a",
+      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.shadergraph@93ee0fdc6ad8",
+      "fingerprint": "93ee0fdc6ad8ac9ed2173562f50bc1ff24ad90dd",
       "editorCompatibility": "6000.4.0a1",
       "version": "17.4.0",
       "source": "builtin",
@@ -507,13 +507,13 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.services.core@1.16.0": {
+    "com.unity.services.core@1.17.0": {
       "name": "com.unity.services.core",
       "displayName": "Services Core",
-      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.services.core@8ba50f624741",
-      "fingerprint": "8ba50f62474188022a50a78f721a5d30dfba0c3e",
+      "resolvedPath": "/Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.services.core@517695160ac6",
+      "fingerprint": "517695160ac692eb0f917c21791b73168626f91a",
       "editorCompatibility": "2022.3.0a1",
-      "version": "1.16.0",
+      "version": "1.17.0",
       "source": "registry",
       "testable": false
     },

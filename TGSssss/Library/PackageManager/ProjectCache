@@ -13,14 +13,14 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639165047280000000
-    m_Hash: 3100949451
+      ticks: 639165071240000000
+    m_Hash: 1020206987
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: /Users/x25018xx/TGSdayo/TGSssss/Packages
-m_EditorVersion: 6000.4.8f1 (f8b72d3d7343)
+m_EditorVersion: 6000.4.10f1 (feeafc12a938)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
@@ -118,7 +118,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.2d.tilemap@191c90975efd
+  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.2d.tilemap@771fb19abead
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -212,7 +212,7 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: 191c90975efddc01dda3145f6f95d459bdeab224
+  fingerprint: 771fb19abead602963249411c1f06c4f7cef3742
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.0
@@ -601,7 +601,7 @@ m_ResolvedPackages:
   - name: com.unity.services.analytics
     version: 6.3.0
   - name: com.unity.services.core
-    version: 1.16.0
+    version: 1.17.0
   - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -1634,7 +1634,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.16.0
+    version: 1.17.0
   - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -1713,7 +1713,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.4.0
   source: 2
-  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.render-pipelines.universal@13e5115b98bf
+  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.render-pipelines.universal@cdf909593d80
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -1831,7 +1831,7 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: 13e5115b98bfee7e78d24995890cb75d63b2e381
+  fingerprint: cdf909593d80250afe2e5bbc8b300b4cd5248430
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 17.4.0
@@ -1847,7 +1847,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.0
   source: 2
-  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.test-framework@76560ee600cb
+  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.test-framework@996f223345ba
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1932,7 +1932,7 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: 76560ee600cb07c29e08760be4a5c75da65a9d9e
+  fingerprint: 996f223345bacaca326406f441efe875d8c25202
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.6.0
@@ -2149,7 +2149,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.ugui@a9ea81766fbd
+  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.ugui@1f2d1ab0d950
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: uGUI
@@ -2240,7 +2240,7 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: a9ea81766fbd1541520b82068401604ff0e403ed
+  fingerprint: 1f2d1ab0d950c1e70186233f26a62f22a5132855
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 2.0.0
@@ -5965,7 +5965,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.4.0
   source: 2
-  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.render-pipelines.core@6f62546dd936
+  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.render-pipelines.core@5aab14b68499
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -6078,7 +6078,7 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: 6f62546dd936e06db320956a2738f2f51fc9c904
+  fingerprint: 5aab14b68499310209c01ce129631806290d391e
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 17.4.0
@@ -6094,7 +6094,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.4.0
   source: 2
-  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.shadergraph@33f3b0a71b9a
+  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.shadergraph@93ee0fdc6ad8
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -6201,7 +6201,7 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: 33f3b0a71b9a3cfee13e803c1e442ad1e68bd03a
+  fingerprint: 93ee0fdc6ad8ac9ed2173562f50bc1ff24ad90dd
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 17.4.0
@@ -6327,12 +6327,12 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.services.core@1.16.0
+- packageId: com.unity.services.core@1.17.0
   testable: 0
   isDirectDependency: 0
-  version: 1.16.0
+  version: 1.17.0
   source: 1
-  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.services.core@8ba50f624741
+  resolvedPath: /Users/x25018xx/TGSdayo/TGSssss/Library/PackageCache/com.unity.services.core@517695160ac6
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -6387,7 +6387,6 @@ m_ResolvedPackages:
     - 1.17.0
     - 1.18.0
     compatible:
-    - 1.16.0
     - 1.17.0
     - 1.18.0
     recommended: 1.18.0
@@ -6396,7 +6395,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
-    version: 3.2.1
+    version: 3.2.2
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   resolvedDependencies:
@@ -6422,16 +6421,16 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638985740780220000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.16/manual/index.html
+  datePublishedTicks: 639148887571880000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.17/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 1b63a99d4899b6cf84a11901c8d66ec8369dc3b4
+    revision: 3228600c8ac261e60daed2a959d4b09b8de4e9e3
     path: 
   unityLifecycle:
-    version: 1.16.0
+    version: 1.17.0
     nextVersion: 
     recommendedVersion: 1.18.0
     isDeprecated: 0
@@ -6442,13 +6441,9 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"### Changed\n* Upgrading base unity version support
-    to 2022.3\n\n### Added\n- Adding environment button in the main toolbar for Unity
-    6.3. Right-click the main toolbar and select `Services/Environment` to activate.\n\n###
-    Fixed\n\n- Fixed an issue where errors would continuously be logged when unlinking
-    a project in the Services tab\n- Fixed an issue where the Popup for Project Linking
-    would close when chooisng the `Open Project Settings` option\n- Fixed compilation
-    issue in 2022.3.10f1 and lower"}'
+  upmReserved: '{"changelog":"### Added\n- Added support for Fast Enter Play Mode\n-
+    Added `IEngineInstallationId` which allows for standard ID access across engine
+    versions and packages"}'
   signature:
     status: 1
     reason: Signature is ok
@@ -6462,10 +6457,10 @@ m_ResolvedPackages:
     errorCode: 
   assetStore:
     productId: 
-  fingerprint: 8ba50f62474188022a50a78f721a5d30dfba0c3e
+  fingerprint: 517695160ac692eb0f917c21791b73168626f91a
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 1.16.0
+    minimumPackageVersion: 1.17.0
     minimumUnityVersion: 2022.3
   compliance:
     status: 0
@@ -6549,7 +6544,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.16.0
+    version: 1.17.0
   - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -7588,4 +7583,4 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-m_BuiltInPackagesHash: b8d077c868dc0eb28df9cdde5b06b4973c04ab4a
+m_BuiltInPackagesHash: 760fa467eb26bb4f84db7adf625ea8a40145f0de
