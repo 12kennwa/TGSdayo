@@ -1,1 +1,5 @@
-sceneSetups: []
+sceneSetups:
+- path: "Assets/TGS\u306E\u3084\u3064\u3088.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
